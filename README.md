@@ -1,6 +1,6 @@
-# Codex DingTalk Attendance Skill
+# dingding-daka-skill
 
-一个面向 Codex / Codex CLI 的钉钉考勤自动化 skill。
+`dingding-daka-skill` 是一个面向 Codex / Codex CLI 的钉钉考勤自动化 skill。
 
 ## 功能
 
